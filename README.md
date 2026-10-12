@@ -58,12 +58,3 @@ SUPABASE_SERVICE_ROLE_KEY=your_service_role_key
 - `frontend/` — berisi `index.html`, `style.css`, dan `script.js`
 - `README.md` — dokumentasi project
 
-## Status Database
-
-Saat menjalankan SQL di Supabase, hasil yang dikembalikan akan menampilkan:
-
-```sql
-SELECT 'success' AS status;
-```
-
-Jadi, eksekusi database yang berhasil akan menghasilkan status `success`.
