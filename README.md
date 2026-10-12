@@ -7,7 +7,7 @@ Dengan tampilan boutique dan minimalis, Stockita tidak hanya memudahkan proses o
 
 ## Live App
 
-Link demo (https://stockita-aster-konveksi.vercel.app)
+Link demo [(https://stockita-aster-konveksi.vercel.app)](https://ekasaragih.github.io/Sistem-Persediaan-dan-Penjualan-Aster-Konveksi/)
 
 ## Fitur Utama
 
